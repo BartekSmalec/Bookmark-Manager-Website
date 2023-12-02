@@ -690,6 +690,10 @@ video {
   overflow-x: visible;
 }
 
+.scroll-smooth {
+  scroll-behavior: smooth;
+}
+
 .rounded-lg {
   border-radius: 0.5rem;
 }
