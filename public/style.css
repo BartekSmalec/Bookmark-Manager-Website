@@ -1150,6 +1150,9 @@ video {
 
 .open{
   transform: rotate(90deg);
+  position: fixed;
+  top:45px;
+  right: 100px;
 }
 
 .open .hamburger-top {
