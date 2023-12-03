@@ -1,5 +1,7 @@
 # Bookmark-Manager-Website
 
+Bookmark manager website from https://sabre.udemy.com/course/tailwind-from-scratch/
+
 * `nvm use 20.6.1` <br />
 * Also set Node version in Language&Framework to 20.6.1
 * `npm init -y` <br />
@@ -17,3 +19,4 @@
 * Create public/index.html
 * `npm run build`
 
+![screencapture-localhost-63342-Bookmark-Manager-Website-public-index-html-2023-12-03-22_51_40.png](screenshots%2Fscreencapture-localhost-63342-Bookmark-Manager-Website-public-index-html-2023-12-03-22_51_40.png)
